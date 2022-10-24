@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BRIANCHERUIYOT
-- 👀 I’m interested in web development cybersecurity
+- 👀 I’m interested in web development and cyber security
 - 🌱 I’m currently learning data science with python
 - 💞️ I’m looking to collaborate on amazing data science project
 - 📫 How to reach me cheruiyotbrian9884@gmail.com
